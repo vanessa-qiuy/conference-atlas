@@ -1,0 +1,16 @@
+[
+  {"id":"irspm","organization":"IRSPM","url":"https://www.irspm.org/conferences/conference-2027"},
+  {"id":"icpp","organization":"IPPA / ICPP","url":"https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29"},
+  {"id":"appam","organization":"APPAM","url":"https://www.appam.org/fall-conference/"},
+  {"id":"aspa","organization":"ASPA","url":"https://www.aspanet.org/ASPA/Events/Annual-Conference/2027-FAQs.aspx"},
+  {"id":"aapa-asia","organization":"Asian Association for Public Administration","url":"https://aapa.asia/category/conferences/"},
+  {"id":"ecpr","organization":"ECPR","url":"https://ecpr.eu/Events/373"},
+  {"id":"nispacee","organization":"NISPAcee","url":"https://www.nispa.org/conference/2027/manual-in-application"},
+  {"id":"egpa","organization":"EGPA / IIAS","url":"https://www.iias-iisa.org/egpa/"},
+  {"id":"ipsa","organization":"IPSA","url":"https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open"},
+  {"id":"apsa","organization":"APSA","url":"https://apsanet.org/EVENTS/Upcoming-APSA-Conferences/"},
+  {"id":"arnova","organization":"ARNOVA","url":"https://www.arnova.org/events"},
+  {"id":"iaia","organization":"IAIA","url":"https://2027.iaia.org/"},
+  {"id":"iaee","organization":"IAEE","url":"https://iaee.org/events"},
+  {"id":"egu","organization":"EGU","url":"https://www.egu.eu/meetings/general-assembly/meetings/"}
+]
