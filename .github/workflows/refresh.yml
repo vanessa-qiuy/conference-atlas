@@ -1,0 +1,82 @@
+name: Refresh conference data and deploy website
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 2 * * *' # Daily at 02:17 UTC (10:17 Singapore time)
+  workflow_dispatch:
+
+# Deploying in this workflow is essential: GITHUB_TOKEN commits do not trigger Pages builds.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: conference-atlas-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout source files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Test database and parsers
+        run: python -m unittest discover -s tests -v
+
+      # Initial user push publishes quickly; timed/manual runs check official sites.
+      - name: Refresh dates from verified official sources
+        if: github.event_name != 'push'
+        run: python scripts/sync_conferences.py
+
+      - name: Detect CFP and organizer announcements
+        if: github.event_name != 'push'
+        run: python scripts/monitor_sources.py
+
+      - name: Commit changed data snapshots
+        if: github.event_name != 'push'
+        run: |
+          git add data/conferences.json data/conferences.js data/pending_changes.json data/change_log.json data/candidates.json data/source_watch_state.json data/source_changes.json data/source_health.json
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: refresh official conference data"
+            git push origin "HEAD:${{ github.ref_name }}"
+          else
+            echo "No conference data changed"
+          fi
+
+      - name: Prepare minimal public website
+        run: |
+          mkdir -p public/assets public/data
+          cp index.html app.js styles.css public/
+          cp assets/*.svg public/assets/
+          cp data/conferences.js public/data/
+          touch public/.nojekyll
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website files
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
