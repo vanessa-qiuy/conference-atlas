@@ -67,7 +67,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Asian Association for Public Administration (aapa.asia). Not the unrelated American Academy of Physician Associates (aapa.org). Registration post lists Sep 30 deadline for general attendees; accepted authors were advised to register by Aug 31.",
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "appam-2026",
@@ -117,7 +117,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Online registration late-rate tier ends 27 October 2026; onsite registration is available 4–7 November. This is NOT the final opportunity to register.",
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "arnova-2026",
@@ -164,7 +164,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Call for abstracts already closed; do not treat October 28 hotel-block deadline as conference registration.",
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "egu-2027",
@@ -209,7 +209,7 @@ window.ATLAS_DATA = {
         "lon": 16.3738,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "aspa-2027",
@@ -265,7 +265,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "As of the official 2027 FAQ, calls for proposals had closed; registrations were slated for early October. Check the official event site for any updated dates.",
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "iaia-2027",
@@ -319,7 +319,7 @@ window.ATLAS_DATA = {
         "lon": 172.6362,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "irspm-2027",
@@ -373,7 +373,7 @@ window.ATLAS_DATA = {
         "lon": 10.3951,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "nispacee-2027",
@@ -493,7 +493,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Paper proposals are reviewed and selected by individual workshop directors; applicants can attend only one workshop. Completed papers must be uploaded by 18 May 2027; this is not a new proposal-submission opportunity.",
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "pmrc-2027",
@@ -654,7 +654,7 @@ window.ATLAS_DATA = {
         "lon": -1.6778,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "ipsa-2027",
@@ -720,7 +720,7 @@ window.ATLAS_DATA = {
         "lon": 12.4964,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "iaee-intl-2027",
@@ -821,7 +821,7 @@ window.ATLAS_DATA = {
         "lon": 19.0402,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "apsa-2027",
@@ -868,7 +868,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "At the 12 Oct 2026 review, the 2027 call for proposals was announced for October but an exact deadline was not verified.",
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "ecpr-gc-2027",
@@ -928,7 +928,7 @@ window.ATLAS_DATA = {
         "lon": 2.1686,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "appam-2027",
@@ -974,7 +974,7 @@ window.ATLAS_DATA = {
         "lon": -86.1581,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "egu-2028",
@@ -1018,7 +1018,7 @@ window.ATLAS_DATA = {
         "lon": 16.3738,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "apsa-2028",
@@ -1063,7 +1063,7 @@ window.ATLAS_DATA = {
         "lon": -104.9903,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     },
     {
       "id": "appam-2028",
@@ -1109,7 +1109,7 @@ window.ATLAS_DATA = {
         "lon": -77.0369,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-13"
+      "lastCheckedAt": "2026-10-14"
     }
   ]
 };
