@@ -1111,5 +1111,305 @@ window.ATLAS_DATA = {
       },
       "lastCheckedAt": "2026-10-16"
     }
-  ]
+  ],
+  "status": {
+    "lastMonitoringCheck": "2026-10-16T13:41:32+00:00",
+    "sourceCount": 14,
+    "sourceSuccessCount": 11,
+    "sources": [
+      {
+        "id": "irspm",
+        "organization": "IRSPM",
+        "url": "https://www.irspm.org/conferences/conference-2027",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 5,
+        "note": ""
+      },
+      {
+        "id": "icpp",
+        "organization": "IPPA / ICPP",
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 15,
+        "note": ""
+      },
+      {
+        "id": "appam",
+        "organization": "APPAM",
+        "url": "https://www.appam.org/fall-conference/",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 7,
+        "note": ""
+      },
+      {
+        "id": "aspa",
+        "organization": "ASPA",
+        "url": "https://www.aspanet.org/ASPA/Events/Annual-Conference/2027-FAQs.aspx",
+        "state": "not_checked",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 0,
+        "note": "No dated passages available; preserving previous state"
+      },
+      {
+        "id": "aapa-asia",
+        "organization": "Asian Association for Public Administration",
+        "url": "https://aapa.asia/category/conferences/",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 5,
+        "note": ""
+      },
+      {
+        "id": "ecpr",
+        "organization": "ECPR",
+        "url": "https://ecpr.eu/Events/373",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 2,
+        "note": ""
+      },
+      {
+        "id": "nispacee",
+        "organization": "NISPAcee",
+        "url": "https://www.nispa.org/conference/2027/manual-in-application",
+        "state": "not_checked",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 0,
+        "note": "Robots unavailable or disallowed: https://www.nispa.org/conference/2027/manual-in-application"
+      },
+      {
+        "id": "egpa",
+        "organization": "EGPA / IIAS",
+        "url": "https://www.iias-iisa.org/egpa/",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 17,
+        "note": ""
+      },
+      {
+        "id": "ipsa",
+        "organization": "IPSA",
+        "url": "https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 6,
+        "note": ""
+      },
+      {
+        "id": "apsa",
+        "organization": "APSA",
+        "url": "https://apsanet.org/EVENTS/Upcoming-APSA-Conferences/",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 9,
+        "note": ""
+      },
+      {
+        "id": "arnova",
+        "organization": "ARNOVA",
+        "url": "https://www.arnova.org/events",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 3,
+        "note": ""
+      },
+      {
+        "id": "iaia",
+        "organization": "IAIA",
+        "url": "https://2027.iaia.org/",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 17,
+        "note": ""
+      },
+      {
+        "id": "iaee",
+        "organization": "IAEE",
+        "url": "https://iaee.org/events",
+        "state": "ok",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 3,
+        "note": ""
+      },
+      {
+        "id": "egu",
+        "organization": "EGU",
+        "url": "https://www.egu.eu/meetings/general-assembly/meetings/",
+        "state": "not_checked",
+        "lastCheckedAt": "2026-10-16T13:41:32+00:00",
+        "passages": 0,
+        "note": "No dated passages available; preserving previous state"
+      }
+    ],
+    "candidateLinks": [
+      {
+        "title": "Previous Post Elevating Asian Public Administration Voices: AAPA Leadership at the 2026 ASPA Annual Conference",
+        "year": 2026,
+        "url": "https://aapa.asia/2026/05/elevating-asian-public-administration-voices-aapa-leadership-at-the-2026-aspa-annual-conference/",
+        "discoveredFrom": "https://aapa.asia/2026/08/call-for-registration/",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "#2026APPAM Conference Participant Guidelines & Resources",
+        "year": 2026,
+        "url": "https://www.appam.org/fall-conference/2026appam-conference-participant-guidelines-resources/",
+        "discoveredFrom": "https://www.appam.org/fall-conference/",
+        "reviewType": "Utility or related resource"
+      },
+      {
+        "title": "Print",
+        "year": 2026,
+        "url": "https://members.arnova.org/eventcalendar/Details/arnova-2026-annual-conference-1639121?rendermode=print",
+        "discoveredFrom": "https://members.arnova.org/eventcalendar/Details/arnova-2026-annual-conference-1639121?sourceTypeId=Website",
+        "reviewType": "Utility or related resource"
+      },
+      {
+        "title": "Add to Calendar",
+        "year": 2026,
+        "url": "https://members.arnova.org/eventcalendar/ICal/arnova-2026-annual-conference-1639121.ics",
+        "discoveredFrom": "https://members.arnova.org/eventcalendar/Details/arnova-2026-annual-conference-1639121?sourceTypeId=Website",
+        "reviewType": "Utility or related resource"
+      },
+      {
+        "title": "Skip to main content",
+        "year": 2027,
+        "url": "https://www.irspm.org/conference-2027/conferences/call-for-abstracts-2027",
+        "discoveredFrom": "https://www.irspm.org/conference-2027/conferences/call-for-abstracts-2027",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "List of Panels",
+        "year": 2027,
+        "url": "https://www.irspm.org/conference-2027/conferences/list-panels-2027",
+        "discoveredFrom": "https://www.irspm.org/conference-2027/conferences/call-for-abstracts-2027",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "Abstract Submission Guidelines",
+        "year": 2027,
+        "url": "https://www.irspm.org/conference-2027/conferences/abstracts-submission-guidelines",
+        "discoveredFrom": "https://www.irspm.org/conference-2027/conferences/call-for-abstracts-2027",
+        "reviewType": "Utility or related resource"
+      },
+      {
+        "title": "IRSPM Scientific Committee 2027",
+        "year": 2027,
+        "url": "https://www.irspm.org/conference-2027/conferences/scientific-committee-2027",
+        "discoveredFrom": "https://www.irspm.org/conference-2027/conferences/call-for-abstracts-2027",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "2027 - ICPP8 RENNES",
+        "year": 2027,
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "Call for Panels",
+        "year": 2027,
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/callForPanel/29",
+        "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "Local Organizer",
+        "year": 2027,
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/page/local-organizer/555/29",
+        "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "About Rennes",
+        "year": 2027,
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/about/29",
+        "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "Practical Guide",
+        "year": 2027,
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/practicalGuide/29",
+        "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "Travel Guide",
+        "year": 2027,
+        "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/travelFare/29",
+        "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "LAGPA Conference",
+        "year": 2026,
+        "url": "https://iias.timtul.es/lagpa-2026-conference/",
+        "discoveredFrom": "https://iias.timtul.es/news/egpa-2026-brings-the-global-public-administra/",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "ECPR General Conference 2027, Pompeu Fabra University, 7 – 10 September 2027",
+        "year": 2027,
+        "url": "https://ecpr.eu/GeneralConference",
+        "discoveredFrom": "https://ecpr.eu/Events/Event/Content?EventID=373&ID=1710",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "(unnamed conference link)",
+        "year": 2026,
+        "url": "https://aapa.asia/2026/03/call-for-papers-save-the-date-2026-annual-conference-of-the-asian-association-for-public-administration/",
+        "discoveredFrom": "https://aapa.asia/category/conferences/",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "LAGPA Conference",
+        "year": 2026,
+        "url": "https://www.iias-iisa.org/lagpa-2026-conference/",
+        "discoveredFrom": "https://www.iias-iisa.org/egpa/",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "Registrations Open for EGPA 2026 Conference in Rome",
+        "year": 2026,
+        "url": "https://www.iias-iisa.org/news/registrations-open-for-egpa-2026-conference-i",
+        "discoveredFrom": "https://www.iias-iisa.org/egpa/",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "EGPA 2026 Conference Attracts Nearly 900 Submissions, Building on Record-Breaking Momentum",
+        "year": 2026,
+        "url": "https://www.iias-iisa.org/news/egpa-2026-conference-attracts-nearly-900-subm",
+        "discoveredFrom": "https://www.iias-iisa.org/egpa/",
+        "reviewType": "Potential conference link"
+      },
+      {
+        "title": "(unnamed conference link)",
+        "year": 2026,
+        "url": "https://www.iias-iisa.org/egpa-2026-conference/",
+        "discoveredFrom": "https://www.iias-iisa.org/egpa/",
+        "reviewType": "Potential conference link"
+      }
+    ],
+    "pendingDates": [],
+    "pendingAnnouncements": [
+      {
+        "organizer": "ECPR",
+        "observedAt": "2026-10-13T09:32:03+00:00",
+        "url": "https://ecpr.eu/Events/373",
+        "passageCount": 1,
+        "status": "needs_manual_review"
+      },
+      {
+        "organizer": "ECPR",
+        "observedAt": "2026-10-16T07:17:34+00:00",
+        "url": "https://ecpr.eu/Events/373",
+        "passageCount": 1,
+        "status": "needs_manual_review"
+      }
+    ],
+    "notice": "Read-only monitoring snapshot. Unverified candidate URLs are not conference editions."
+  }
 };
