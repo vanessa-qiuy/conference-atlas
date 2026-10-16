@@ -201,10 +201,11 @@ def discover_candidates(soup,source_url,known_ids):
 def save_data(doc,changes,pending,candidates,dry):
     if dry:return
     DATA.write_text(json.dumps(doc,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (ROOT/'data/conferences.js').write_text('window.ATLAS_DATA = '+json.dumps(doc,ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     (ROOT/'data/pending_changes.json').write_text(json.dumps(pending,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
     (ROOT/'data/change_log.json').write_text(json.dumps(changes,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
     (ROOT/'data/candidates.json').write_text(json.dumps(candidates,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+    from export_data import export
+    export()
 
 
 def main():

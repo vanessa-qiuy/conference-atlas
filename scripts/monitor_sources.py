@@ -87,6 +87,9 @@ def run(fixtures:Path|None=None,dry_run=False):
     if not dry_run:
         for file,content in [(STATE,state),(CHANGES,changes),(ERRORS,health),(CANDIDATES,list(candidate_by_url.values()))]:
             file.write_text(json.dumps(content,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    if not dry_run:
+        from export_data import export
+        export()
     print(f'Watched {n_ok}/{len(sources)} official pages; {len(changes)} cumulative review tasks; {len(candidate_by_url)} new-edition candidates.')
     return 0 if n_ok else 1
 
