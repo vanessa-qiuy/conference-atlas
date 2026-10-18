@@ -67,7 +67,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Asian Association for Public Administration (aapa.asia). Not the unrelated American Academy of Physician Associates (aapa.org). Registration post lists Sep 30 deadline for general attendees; accepted authors were advised to register by Aug 31.",
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "appam-2026",
@@ -117,7 +117,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Online registration late-rate tier ends 27 October 2026; onsite registration is available 4–7 November. This is NOT the final opportunity to register.",
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "arnova-2026",
@@ -164,7 +164,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Call for abstracts already closed; do not treat October 28 hotel-block deadline as conference registration.",
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "egu-2027",
@@ -209,7 +209,7 @@ window.ATLAS_DATA = {
         "lon": 16.3738,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "aspa-2027",
@@ -265,7 +265,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "As of the official 2027 FAQ, calls for proposals had closed; registrations were slated for early October. Check the official event site for any updated dates.",
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "iaia-2027",
@@ -319,7 +319,7 @@ window.ATLAS_DATA = {
         "lon": 172.6362,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "irspm-2027",
@@ -373,7 +373,7 @@ window.ATLAS_DATA = {
         "lon": 10.3951,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "nispacee-2027",
@@ -493,7 +493,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "Paper proposals are reviewed and selected by individual workshop directors; applicants can attend only one workshop. Completed papers must be uploaded by 18 May 2027; this is not a new proposal-submission opportunity.",
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "pmrc-2027",
@@ -654,7 +654,7 @@ window.ATLAS_DATA = {
         "lon": -1.6778,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "ipsa-2027",
@@ -720,7 +720,7 @@ window.ATLAS_DATA = {
         "lon": 12.4964,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "iaee-intl-2027",
@@ -821,7 +821,7 @@ window.ATLAS_DATA = {
         "lon": 19.0402,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "apsa-2027",
@@ -868,7 +868,7 @@ window.ATLAS_DATA = {
         "precision": "city"
       },
       "editorialNote": "At the 12 Oct 2026 review, the 2027 call for proposals was announced for October but an exact deadline was not verified.",
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "ecpr-gc-2027",
@@ -928,7 +928,7 @@ window.ATLAS_DATA = {
         "lon": 2.1686,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "appam-2027",
@@ -974,7 +974,7 @@ window.ATLAS_DATA = {
         "lon": -86.1581,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "egu-2028",
@@ -1018,7 +1018,7 @@ window.ATLAS_DATA = {
         "lon": 16.3738,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "apsa-2028",
@@ -1063,7 +1063,7 @@ window.ATLAS_DATA = {
         "lon": -104.9903,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     },
     {
       "id": "appam-2028",
@@ -1109,11 +1109,11 @@ window.ATLAS_DATA = {
         "lon": -77.0369,
         "precision": "city"
       },
-      "lastCheckedAt": "2026-10-17"
+      "lastCheckedAt": "2026-10-18"
     }
   ],
   "status": {
-    "lastMonitoringCheck": "2026-10-17T07:01:58+00:00",
+    "lastMonitoringCheck": "2026-10-18T07:17:53+00:00",
     "sourceCount": 14,
     "sourceSuccessCount": 11,
     "sources": [
@@ -1122,7 +1122,7 @@ window.ATLAS_DATA = {
         "organization": "IRSPM",
         "url": "https://www.irspm.org/conferences/conference-2027",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 5,
         "note": ""
       },
@@ -1131,7 +1131,7 @@ window.ATLAS_DATA = {
         "organization": "IPPA / ICPP",
         "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 15,
         "note": ""
       },
@@ -1140,7 +1140,7 @@ window.ATLAS_DATA = {
         "organization": "APPAM",
         "url": "https://www.appam.org/fall-conference/",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 7,
         "note": ""
       },
@@ -1149,7 +1149,7 @@ window.ATLAS_DATA = {
         "organization": "ASPA",
         "url": "https://www.aspanet.org/ASPA/Events/Annual-Conference/2027-FAQs.aspx",
         "state": "not_checked",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 0,
         "note": "No dated passages available; preserving previous state"
       },
@@ -1158,7 +1158,7 @@ window.ATLAS_DATA = {
         "organization": "Asian Association for Public Administration",
         "url": "https://aapa.asia/category/conferences/",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 5,
         "note": ""
       },
@@ -1167,7 +1167,7 @@ window.ATLAS_DATA = {
         "organization": "ECPR",
         "url": "https://ecpr.eu/Events/373",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 2,
         "note": ""
       },
@@ -1176,7 +1176,7 @@ window.ATLAS_DATA = {
         "organization": "NISPAcee",
         "url": "https://www.nispa.org/conference/2027/manual-in-application",
         "state": "not_checked",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 0,
         "note": "Robots unavailable or disallowed: https://www.nispa.org/conference/2027/manual-in-application"
       },
@@ -1185,7 +1185,7 @@ window.ATLAS_DATA = {
         "organization": "EGPA / IIAS",
         "url": "https://www.iias-iisa.org/egpa/",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 17,
         "note": ""
       },
@@ -1194,7 +1194,7 @@ window.ATLAS_DATA = {
         "organization": "IPSA",
         "url": "https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 6,
         "note": ""
       },
@@ -1203,7 +1203,7 @@ window.ATLAS_DATA = {
         "organization": "APSA",
         "url": "https://apsanet.org/EVENTS/Upcoming-APSA-Conferences/",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 9,
         "note": ""
       },
@@ -1212,7 +1212,7 @@ window.ATLAS_DATA = {
         "organization": "ARNOVA",
         "url": "https://www.arnova.org/events",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 3,
         "note": ""
       },
@@ -1221,7 +1221,7 @@ window.ATLAS_DATA = {
         "organization": "IAIA",
         "url": "https://2027.iaia.org/",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 17,
         "note": ""
       },
@@ -1230,7 +1230,7 @@ window.ATLAS_DATA = {
         "organization": "IAEE",
         "url": "https://iaee.org/events",
         "state": "ok",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 3,
         "note": ""
       },
@@ -1239,7 +1239,7 @@ window.ATLAS_DATA = {
         "organization": "EGU",
         "url": "https://www.egu.eu/meetings/general-assembly/meetings/",
         "state": "not_checked",
-        "lastCheckedAt": "2026-10-17T07:01:58+00:00",
+        "lastCheckedAt": "2026-10-18T07:17:53+00:00",
         "passages": 0,
         "note": "No dated passages available; preserving previous state"
       }
