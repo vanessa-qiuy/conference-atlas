@@ -1,85 +1,85 @@
 {
   "irspm": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 5,
     "url": "https://www.irspm.org/conferences/conference-2027"
   },
   "icpp": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 15,
     "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29"
   },
   "appam": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 7,
     "url": "https://www.appam.org/fall-conference/"
   },
   "aspa": {
     "status": "not_checked",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "reason": "No dated passages available; preserving previous state",
     "url": "https://www.aspanet.org/ASPA/Events/Annual-Conference/2027-FAQs.aspx"
   },
   "aapa-asia": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 5,
     "url": "https://aapa.asia/category/conferences/"
   },
   "ecpr": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 2,
     "url": "https://ecpr.eu/Events/373"
   },
   "nispacee": {
     "status": "not_checked",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "reason": "Robots unavailable or disallowed: https://www.nispa.org/conference/2027/manual-in-application",
     "url": "https://www.nispa.org/conference/2027/manual-in-application"
   },
   "egpa": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 17,
     "url": "https://www.iias-iisa.org/egpa/"
   },
   "ipsa": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 6,
     "url": "https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open"
   },
   "apsa": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 9,
     "url": "https://apsanet.org/EVENTS/Upcoming-APSA-Conferences/"
   },
   "arnova": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 3,
     "url": "https://www.arnova.org/events"
   },
   "iaia": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 17,
     "url": "https://2027.iaia.org/"
   },
   "iaee": {
     "status": "ok",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "passages": 3,
     "url": "https://iaee.org/events"
   },
   "egu": {
     "status": "not_checked",
-    "lastCheckedAt": "2026-10-24T07:22:56+00:00",
+    "lastCheckedAt": "2026-10-25T07:39:37+00:00",
     "reason": "No dated passages available; preserving previous state",
     "url": "https://www.egu.eu/meetings/general-assembly/meetings/"
   }
