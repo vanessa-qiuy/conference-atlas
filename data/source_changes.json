@@ -34,5 +34,17 @@
       "Activities and Events 2026 Annual Conference Past Conferences 2026 Awards Nomination Past Award Winners Symposium on Public Policy for Nonprofits"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "a40748c2f89238fc",
+    "sourceId": "iaee",
+    "organizer": "IAEE",
+    "url": "https://iaee.org/events",
+    "observedAt": "2026-11-04T09:25:25+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "4th IAEE MENA Conference – Riyadh 2027 (Rescheduled)"
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
