@@ -46,5 +46,18 @@
       "4th IAEE MENA Conference – Riyadh 2027 (Rescheduled)"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "37affd267e022b83",
+    "sourceId": "ipsa",
+    "organizer": "IPSA",
+    "url": "https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open",
+    "observedAt": "2026-11-05T09:35:54+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Hundreds of open panels are awaiting your paper abstracts. Select the ones best related to your research. Note that you can still submit closed panel proposals until 11 November 2026 .",
+      "Paper and Closed Panel Submission Deadline: 11 November 2026"
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]

@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "conferenceId": "ipsa-2027",
+    "field": "deadline:Paper",
+    "previous": "2026-11-04",
+    "observed": "2026-11-11",
+    "officialSource": "https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open",
+    "checkedAt": "2026-11-05",
+    "decision": "auto-applied (explicit source-specific rule)"
+  },
+  {
+    "conferenceId": "ipsa-2027",
+    "field": "deadline:Closed panel",
+    "previous": "2026-11-04",
+    "observed": "2026-11-11",
+    "officialSource": "https://wc2027.ipsa.org/na/news/call-papers-2027-ipsa-world-congress-now-open",
+    "checkedAt": "2026-11-05",
+    "decision": "auto-applied (explicit source-specific rule)"
+  }
+]
