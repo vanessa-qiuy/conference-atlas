@@ -59,5 +59,19 @@
       "Paper and Closed Panel Submission Deadline: 11 November 2026"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "51a1a9b90866858b",
+    "sourceId": "egpa",
+    "organizer": "EGPA / IIAS",
+    "url": "https://www.iias-iisa.org/egpa/",
+    "observedAt": "2026-11-06T09:29:44+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Thu, 05 November 2026, 15:00",
+      "Thu, 05 November 2026, 12:00",
+      "The 2027 Transatlantic Dialogue: The Role of Public Policy and Administration in Shaping Democracy and Promoting the Resilience of Democratic Norms and Institutions."
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
