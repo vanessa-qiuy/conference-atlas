@@ -85,5 +85,17 @@
       "Activities and Events 2026 Annual Conference Past Conferences 2026 Awards Nomination Past Award Winners International Symposiums Symposium on Public Policy for Nonprofits"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "4ef450a6019a9e26",
+    "sourceId": "iaee",
+    "organizer": "IAEE",
+    "url": "https://iaee.org/events",
+    "observedAt": "2026-11-12T09:55:50+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "10th IAEE Latin American Conference (ELAEE) - Mandoza 2027"
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
