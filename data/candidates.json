@@ -145,5 +145,12 @@
     "url": "https://www.iias-iisa.org/egpa-2026-conference/",
     "discoveredFrom": "https://www.iias-iisa.org/egpa/",
     "status": "unverified candidate"
+  },
+  {
+    "name": "#2027APPAM",
+    "year": 2027,
+    "url": "https://www.appam.org/fall-conference/2027appam-registration-travel/",
+    "discoveredFrom": "https://www.appam.org/fall-conference/",
+    "status": "unverified candidate"
   }
 ]

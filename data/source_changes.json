@@ -97,5 +97,17 @@
       "10th IAEE Latin American Conference (ELAEE) - Mandoza 2027"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "0bc5682432bb1ad9",
+    "sourceId": "ecpr",
+    "organizer": "ECPR",
+    "url": "https://ecpr.eu/Events/373",
+    "observedAt": "2026-11-14T09:03:47+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "The Call for Panels and Papers opens on 17 November."
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
