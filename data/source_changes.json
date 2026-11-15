@@ -109,5 +109,20 @@
       "The Call for Panels and Papers opens on 17 November."
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "c3919a90e7fe63ae",
+    "sourceId": "icpp",
+    "organizer": "IPPA / ICPP",
+    "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "observedAt": "2026-11-15T09:34:10+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Evaluate panels 27th October 2026 - 16th November 2026 Upcoming",
+      "27th October 2026 - 16th November 2026",
+      "Call for papers 17th November 2026 - 29th January 2027 Upcoming",
+      "17th November 2026 - 29th January 2027"
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
