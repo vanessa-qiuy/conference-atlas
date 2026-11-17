@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "conferenceId": "icpp8-2027",
+    "field": "deadline:Paper",
+    "previous": "2027-01-29",
+    "observed": "2026-10-26",
+    "officialSource": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "checkedAt": "2026-11-17",
+    "decision": "manual review (change >45 days)"
+  }
+]

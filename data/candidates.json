@@ -152,5 +152,26 @@
     "url": "https://www.appam.org/fall-conference/2027appam-registration-travel/",
     "discoveredFrom": "https://www.appam.org/fall-conference/",
     "status": "unverified candidate"
+  },
+  {
+    "name": "Call for Papers",
+    "year": 2027,
+    "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/callForPaper/29",
+    "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "status": "unverified candidate"
+  },
+  {
+    "name": "IPPA Grant",
+    "year": 2027,
+    "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/ippaGrant/29",
+    "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "status": "unverified candidate"
+  },
+  {
+    "name": "Conference Fees",
+    "year": 2027,
+    "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/conferenceFees/29",
+    "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "status": "unverified candidate"
   }
 ]
