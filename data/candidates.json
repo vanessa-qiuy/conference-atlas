@@ -173,5 +173,19 @@
     "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/conferenceFees/29",
     "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
     "status": "unverified candidate"
+  },
+  {
+    "name": "Venues",
+    "year": 2027,
+    "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/page/venues/574/29",
+    "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "status": "unverified candidate"
+  },
+  {
+    "name": "Exhibitors",
+    "year": 2027,
+    "url": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/exhibitors/29",
+    "discoveredFrom": "https://www.ippapublicpolicy.org/conference/icpp8-rennes-2027/29",
+    "status": "unverified candidate"
   }
 ]
