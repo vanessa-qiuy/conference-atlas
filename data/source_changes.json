@@ -124,5 +124,17 @@
       "17th November 2026 - 29th January 2027"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "6d52dab08e181e17",
+    "sourceId": "ecpr",
+    "organizer": "ECPR",
+    "url": "https://ecpr.eu/Events/373",
+    "observedAt": "2026-11-21T09:56:03+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Submit your Panel and Paper Proposals from 17 November 2026 to 8 January 2027 (midnight UK time)."
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
