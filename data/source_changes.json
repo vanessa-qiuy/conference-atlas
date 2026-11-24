@@ -136,5 +136,30 @@
       "Submit your Panel and Paper Proposals from 17 November 2026 to 8 January 2027 (midnight UK time)."
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "c46428ea230dc370",
+    "sourceId": "aapa-asia",
+    "organizer": "Asian Association for Public Administration",
+    "url": "https://aapa.asia/category/conferences/",
+    "observedAt": "2026-11-24T12:36:24+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "2026 AAPA Annual Conference Successfully Held in Singapore",
+      "The 2026 Annual Conference of the Asian Association for Public Administration (AAPA) was held at Nanyang Technological University (NTU), Singapore, from 29 to 30 October 2026. Jointly organised by AAPA and NTU’s Nanyang Centre for Public Administration (NCPA), with the School of Public Policy…"
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "2948bde09048e981",
+    "sourceId": "ecpr",
+    "organizer": "ECPR",
+    "url": "https://ecpr.eu/Events/373",
+    "observedAt": "2026-11-24T12:36:24+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Propose a Panel and Paper from 17 November 2026 to 8 January 2027 (midnight UK time)."
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
