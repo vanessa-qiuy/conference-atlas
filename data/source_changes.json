@@ -161,5 +161,17 @@
       "Propose a Panel and Paper from 17 November 2026 to 8 January 2027 (midnight UK time)."
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "b34d7d51d78d7b6b",
+    "sourceId": "egpa",
+    "organizer": "EGPA / IIAS",
+    "url": "https://www.iias-iisa.org/egpa/",
+    "observedAt": "2026-11-26T11:00:29+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Wed, 25 November 2026, 17:50"
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
