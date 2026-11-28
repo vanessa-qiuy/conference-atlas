@@ -173,5 +173,17 @@
       "Wed, 25 November 2026, 17:50"
     ],
     "note": "Changes are NOT published to the conference database automatically."
+  },
+  {
+    "changeId": "ef74fa147f030a79",
+    "sourceId": "egpa",
+    "organizer": "EGPA / IIAS",
+    "url": "https://www.iias-iisa.org/egpa/",
+    "observedAt": "2026-11-28T10:34:41+00:00",
+    "status": "needs_manual_review",
+    "newPassages": [
+      "Check out our new page for the EGPA 2027 Conference in Budapest more information and updates."
+    ],
+    "note": "Changes are NOT published to the conference database automatically."
   }
 ]
